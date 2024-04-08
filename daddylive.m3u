@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Sport 1 Israel" group-title="Sport" tvg-logo="", Sport 1 Israel
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/embed/stream-140.php
+
+#EXTINF:-1 tvg-id="Sport 2 Israel" group-title="Sport" tvg-logo="", Sport 2 Israel
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/embed/stream-141.php
+
+#EXTINF:-1 tvg-id="Sport 3 Israel" group-title="Sport" tvg-logo="", Sport 3 Israel
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-142.php
+
+#EXTINF:-1 tvg-id="Sport 4 Israel" group-title="Sport" tvg-logo="", Sport 4 Israel
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-143.php
+
+#EXTINF:-1 tvg-id="Sport 5 Israel" group-title="Sport" tvg-logo="", Sport 5 Israel
+plugin://plugin.video.daddylive/?mode=play&url=https://1.dlhd.sx/embed/stream-144.php
+
+#EXTINF:-1 tvg-id="Sport 5 PLUS Israel" group-title="Sport" tvg-logo="", Sport 5 PLUS Israel
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-145.php
+
+#EXTINF:-1 tvg-id="Sport 5 Live Israel" group-title="Sport" tvg-logo="", Sport 5 Live Israel
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-146.php
+
+#EXTINF:-1 tvg-id="Sport 5 Star Israel" group-title="Sport" tvg-logo="", Sport 5 Star Israel
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-147.php
+
+#EXTINF:-1 tvg-id="Sport 5 Gold Israel" group-title="Sport" tvg-logo="", Sport 5 Gold Israel
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-148.php
+
+#EXTINF:-1 tvg-id="Yes Movies Action Israel" group-title="Sport" tvg-logo="", Yes Movies Action Israel
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-543.php
+
+#EXTINF:-1 tvg-id="Yes Movies Kids Israel" group-title="Sport" tvg-logo="", Yes Movies Kids Israel
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-544.php
+
+#EXTINF:-1 tvg-id="Yes Movies Comedy Israel" group-title="Sport" tvg-logo="", Yes Movies Comedy Israel
+plugin://plugin.video.daddylive/?mode=play&url=https://dlhd.sx/stream/stream-545.php
